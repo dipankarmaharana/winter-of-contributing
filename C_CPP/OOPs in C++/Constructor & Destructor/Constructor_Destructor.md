@@ -20,7 +20,7 @@ eg.
 	public:
 		Base()    //This is the constructor same as class name
 		{
-			-------//Coading part
+			-------//Coding part
 		}
     };
     int main()
